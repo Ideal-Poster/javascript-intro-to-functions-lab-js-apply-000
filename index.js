@@ -16,7 +16,11 @@ function logWhisper(message) {
 
 function sayHiToGrandma(message) {
   console.log(message.toLowerCase());
-  if (message === 'I love you, Grandma.') return 'I love you, too.';
-  message === message.toLowerCase() ? 
-  
+  if (message === 'I love you, Grandma.') {
+    return 'I love you, too.';
+  }
+  (message === message.toLowerCase()) {
+    
+  }
+ 
 }
