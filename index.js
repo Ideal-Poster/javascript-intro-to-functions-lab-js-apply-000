@@ -9,7 +9,3 @@ function whisper(message) {
 function logShout(message) {
   console.log(message)
 }
-
-interface {
-  
-}
