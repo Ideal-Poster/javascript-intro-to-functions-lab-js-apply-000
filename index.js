@@ -1,3 +1,3 @@
-shout(message: String) {
+shout(message) {
   return message.toUpperCase();
 }
